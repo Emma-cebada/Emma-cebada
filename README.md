@@ -6,7 +6,7 @@ Creo firmemente que podré desenvolverme en este mundo ya que mi experiencia en 
 
 
 
-- 🌱 Actualmente estoy mejorando las habilidades que he aprendido durante el curso mientras que busco mi primera oportunidad laboral como progrmadora.
+- 🌱 Actualmente estoy mejorando las habilidades que he aprendido durante el curso mientras que busco mi primera oportunidad laboral como programadora.
 
 ### Tecnologías:
 - HTML5, CSS3, CSS Grid, SASS.
