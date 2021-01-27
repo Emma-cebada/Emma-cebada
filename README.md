@@ -5,8 +5,8 @@ Despego del mundo Retail para aterrizar, de la mano de Adalab, en el mundo de la
 Creo firmemente que podré desenvolverme en este mundo ya que mi experiencia en Atención al cliente y en gestión de equipos me ha ayudado a potenciar mi empatía y soy capaz de trabajar bien con otras personas, competencias que entiendo necesarias para trabajar en desarrollo y programación de aplicaciones web.
 
 
+- 🌱 Actualmente estoy buscando mi primera oportunidad laboral mientras sigo mejorando las habilidades que he aprendido durante el curso.
 
-- 🌱 Actualmente estoy mejorando las habilidades que he aprendido durante el curso mientras que busco mi primera oportunidad laboral como programadora.
 
 ### Tecnologías:
 - HTML5, CSS3, CSS Grid, SASS.
@@ -16,7 +16,7 @@ Creo firmemente que podré desenvolverme en este mundo ya que mi experiencia en 
 - Gulp.
 
 
-### 📫 Proyectos: 
+### 💬 Proyectos: 
 -[Página web responsive](https://github.com/Emma-cebada/project-promo-k-module-1-team-8)  
 
 -[Generador de tarjetas virtuales](https://github.com/Emma-cebada/project-promo-k-module-2-team-6)  
@@ -28,9 +28,9 @@ Creo firmemente que podré desenvolverme en este mundo ya que mi experiencia en 
 
 
 
-### Contacto:  
+### 📫 Contacto:  
 
- 💬 Si quieres saber más sobre mí:
+Si quieres saber más sobre mí:
 [Aquí puedes ver mi LinkedIn](https://www.linkedin.com/in/emmacebadavisuara/)
 
 
