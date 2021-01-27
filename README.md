@@ -8,7 +8,7 @@ Creo firmemente que podré desenvolverme en este mundo ya que mi experiencia en 
 - 🌱 Actualmente estoy buscando mi primera oportunidad laboral mientras sigo mejorando las habilidades que he aprendido durante el curso.
 
 
-### Tecnologías:
+### 💻 Tecnologías:
 - HTML5, CSS3, CSS Grid, SASS.
 - JavaScript.
 - React.
